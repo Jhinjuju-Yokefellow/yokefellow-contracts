@@ -24,10 +24,10 @@ Yokefellow is more than a project. It's a blueprint for funding overlooked build
 
 ## 🧾 Verified Contracts
 
-| Contract        | Network | Address                                      | Explorer                                                                 |
+| Contract        | Network | Address                                      | Raw Log                                                               |
 |-----------------|---------|----------------------------------------------|--------------------------------------------------------------------------|
-| $YES Token      | Polygon | `0xc242CE6E81CdE46277cc8231B12Da6AE0569b65E` | [Blockscout](https://blockscout.com/polygon/mainnet/address/0xc242CE6E81CdE46277cc8231B12Da6AE0569b65E/contracts) |
-| Vesting Vault   | Polygon | `0xe3B6BfE9f5CB7A7357929a808b2936E0B447689d` | [Blockscout](https://blockscout.com/polygon/mainnet/address/0xe3B6BfE9f5CB7A7357929a808b2936E0B447689d/contracts) |
+| $YES Token      | Polygon | `0xc242CE6E81CdE46277cc8231B12Da6AE0569b65E` | [Raw Log](https://raw.githubusercontent.com/Jhinjuju-Yokefellow/yokefellow-contracts/main/verification/YES_token_blockscout_verified.txt) |
+| Vesting Vault   | Polygon | `0xe3B6BfE9f5CB7A7357929a808b2936E0B447689d` | [Raw Log](https://raw.githubusercontent.com/Jhinjuju-Yokefellow/yokefellow-contracts/main/verification/YES_vault_blockscout_verified.txt) |
 
 ---
 
