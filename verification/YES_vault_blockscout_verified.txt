@@ -1,0 +1,21 @@
+YES Token Vault Contract — Verified on Blockscout
+
+Contract Address:
+0xe3B6BfEf9f5CB7A7357929a808b2936E0B447689
+
+Explorer Link:
+https://polygon.blockscout.com/address/0xe3B6BfEf9f5CB7A7357929a808b2936E0B447689/contracts
+
+Network:
+Polygon Mainnet (Chain ID: 137)
+
+Compiler Version:
+v0.8.18+commit.87f61d96  
+Optimization: Enabled (200 runs)
+
+Verification Timestamp:
+March 31, 2025
+
+Notes:
+This vesting contract locks 872,828,132 YES tokens and releases 39,674,006 YES per year for 22 years to the founder wallet.
+It is immutable, trustless, and fully transparent.
