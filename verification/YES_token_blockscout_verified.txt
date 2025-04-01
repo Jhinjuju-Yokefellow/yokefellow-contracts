@@ -1,0 +1,20 @@
+YES Token Contract — Verified on Blockscout
+
+Contract Address:
+0xc242CE6E81CdE46277cc8231B12Da6AE0569b65E
+
+Explorer Link:
+https://polygon.blockscout.com/address/0xc242CE6E81CdE46277cc8231B12Da6AE0569b65E/contracts
+
+Network:
+Polygon Mainnet (Chain ID: 137)
+
+Compiler Version:
+v0.8.18+commit.87f61d96  
+Optimization: Enabled (200 runs)
+
+Verification Timestamp:
+March 31, 2025
+
+Notes:
+This contract implements a standard ERC20 token with a fixed supply of 912,502,138 YES tokens, all minted to the founder wallet.
